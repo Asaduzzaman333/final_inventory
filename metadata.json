@@ -1,0 +1,6 @@
+{
+  "name": "Inventory Management App",
+  "description": "A professional web application to manage inventory items. Features login for admin and user roles. Admins can add, view, edit, delete, and manage stock quantities. Users can view product stock. Includes search functionality and local storage persistence for items, session storage for login.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
